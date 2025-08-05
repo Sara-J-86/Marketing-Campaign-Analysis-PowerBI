@@ -51,23 +51,6 @@ The goal of this project is to provide **actionable insights** into marketing ef
 
 ---
 
-## Key Visualizations
-
-| Visualization Type                  | Purpose                                                          |
-|-------------------------------------|------------------------------------------------------------------|
-| Treemap                             | Cost per Conversion by Channel                                   |
-| Filled Map                          | Location-wise Performance (Conversion Rate, Engagement Score)    |
-| Decomposition Tree                  | Conversion Rate Drivers by Campaign Attributes                   |
-| Waterfall Chart                     | ROI or Conversion Rate Change Over Time                          |
-| Gauge                               | Average Conversion Rate Compared to Target                       |
-| Line & Clustered Column Chart       | Clicks vs Impressions Over Time                                  |
-| Donut Chart                         | Customer Segment Distribution                                    |
-| Azure Map                           | Global Campaign Impact Visualization                             |
-| Card                                | Total Campaigns, Avg ROI, Max Conversion Rate                    |
-| Bar Chart                           | Top Campaigns by Engagement Score                                |
-| Matrix Table                        | Company vs Channel ROI Comparison                                |
-
----
 
 ## How to Use
 
